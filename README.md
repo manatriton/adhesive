@@ -1,3 +1,7 @@
+## Note
+This repository is the new home of Adhesive, which was formerly held
+[here](https://github.com/mana-sys/adhesive.git).
+
 # Adhesive
 
 Adhesive is a tool to facilitate local development for AWS Glue. Based on the
